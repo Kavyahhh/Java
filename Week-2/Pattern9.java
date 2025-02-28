@@ -12,7 +12,7 @@ class Solution {
             for(int j=1;j<=n-i;j++){
                 System.out.print("*"+" ");
             }
-            System.out.println("");
+            System.out.println();
         }
     }
 }
