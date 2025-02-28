@@ -7,7 +7,7 @@ class Main{
             for(int j=1; j<=N; j++){
                 System.out.print(j + " ");
             }
-            System.out.println("");
+            System.out.println();
         }
     }
 }
