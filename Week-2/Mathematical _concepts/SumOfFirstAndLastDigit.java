@@ -1,3 +1,5 @@
+// Problem Link - https://www.geeksforgeeks.org/problems/corner-digits1317/0
+
 class Solution
 {
     public int corner_digitSum(int n)
