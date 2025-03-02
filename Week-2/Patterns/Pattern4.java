@@ -1,3 +1,5 @@
+// Problem Link - https://www.geeksforgeeks.org/problems/pattern-printing1347/0
+
 import java.util.Scanner;
 class Main{
     public static void main(String[] args){
