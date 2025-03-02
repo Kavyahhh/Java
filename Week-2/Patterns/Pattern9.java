@@ -1,3 +1,5 @@
+// Problem Link - https://www.geeksforgeeks.org/problems/triangle-pattern-1661718013/0
+
 class Solution {
 
     void printTriangle(int n) {
