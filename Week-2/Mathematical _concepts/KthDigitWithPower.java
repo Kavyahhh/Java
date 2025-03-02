@@ -1,4 +1,5 @@
 // Finds the power of A power B and then finds the kth digit of the number
+// Problem Link -https://www.geeksforgeeks.org/problems/print-the-kth-digit3520/0
 class Solution{
     static long kthDigit(int A,int B,int K){
         // code here
