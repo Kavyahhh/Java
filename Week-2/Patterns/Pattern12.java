@@ -25,7 +25,7 @@ class Main{
 }
 
 
-Input : n = 4
+/*Input : n = 4
 Output : 
          *  
       *  *  *
@@ -33,4 +33,5 @@ Output :
 *  *  *  *  *  *  *
    *  *  *  *  *  
       *  *  *
-	     *
+	*
+*/
