@@ -1,8 +1,9 @@
-/*n = 4
+/* n = 4
 1 2 3 4
 1 2 3
 1 2 
-1 */
+1 
+*/
 
 import java.util.Scanner;
 class Main{
