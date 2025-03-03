@@ -3,7 +3,8 @@ Output :
 1 2 3 4
 1 2 3 4
 1 2 3 4
-1 2 3 4 */
+1 2 3 4 
+*/
 
 import java.util.Scanner;
 class Main{
