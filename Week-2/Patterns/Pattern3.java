@@ -1,3 +1,10 @@
+/*n =5 
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5 */
+
 import java.util.Scanner;
 class Main{
     public static void main(String[] args){
