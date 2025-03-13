@@ -9,9 +9,7 @@ class Main{
         int [] arr= new int[n];
         for(i=0;i<arr.length;i++){
              arr[i]=sc.nextInt();
-        }
-        for(i=0;i<arr.length;i++){
-        System.out.print(arr[i]);
+            System.out.print(arr[i]);
         }
     }
 }
