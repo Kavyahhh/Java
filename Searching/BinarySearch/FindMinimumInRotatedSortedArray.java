@@ -1,4 +1,6 @@
 //https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+//https://www.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1
+
 public class RotatedArray{
     public static int minElement(int[] a, int n) {
         int l = 0, h = n - 1;
